@@ -14,6 +14,8 @@
 		339916982B921D2400700028 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 339916972B921D2400700028 /* Assets.xcassets */; };
 		3399169B2B921D2400700028 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 339916992B921D2400700028 /* LaunchScreen.storyboard */; };
 		339916A42B921E1100700028 /* YubitenReader in Frameworks */ = {isa = PBXBuildFile; productRef = 339916A32B921E1100700028 /* YubitenReader */; };
+		339916A72B92258200700028 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 339916A52B92258200700028 /* README.md */; };
+		339916A82B92258200700028 /* YubitenReaderSample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 339916A62B92258200700028 /* YubitenReaderSample.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		339916972B921D2400700028 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3399169A2B921D2400700028 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3399169C2B921D2400700028 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		339916A52B92258200700028 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		339916A62B92258200700028 /* YubitenReaderSample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = YubitenReaderSample.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		339916822B921D2100700028 = {
 			isa = PBXGroup;
 			children = (
+				339916A52B92258200700028 /* README.md */,
+				339916A62B92258200700028 /* YubitenReaderSample.gif */,
 				3399168D2B921D2100700028 /* YubitenReaderSample */,
 				3399168C2B921D2100700028 /* Products */,
 			);
@@ -133,8 +139,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				339916A82B92258200700028 /* YubitenReaderSample.gif in Resources */,
 				3399169B2B921D2400700028 /* LaunchScreen.storyboard in Resources */,
 				339916982B921D2400700028 /* Assets.xcassets in Resources */,
+				339916A72B92258200700028 /* README.md in Resources */,
 				339916962B921D2100700028 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
