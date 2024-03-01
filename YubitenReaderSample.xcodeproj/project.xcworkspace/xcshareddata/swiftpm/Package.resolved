@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "yubitenreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/63rabbits/YubitenReader",
+      "state" : {
+        "revision" : "21ad6e26ccb06d98f1fa49d87a7e0a552e4bd318",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
